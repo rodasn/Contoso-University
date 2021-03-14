@@ -1,1 +1,1 @@
-# Contoso-University
+# ContosoUniversity
